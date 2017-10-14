@@ -1,4 +1,4 @@
 
 def hello():
-    print "\nhello"
+    print "\nhello friend"
 hello()
